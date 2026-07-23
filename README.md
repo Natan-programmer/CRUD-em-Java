@@ -1,10 +1,10 @@
-# 🚀 Sistema de Cadastro de Funcionários (CRUD em Java)
+#  Sistema de Cadastro de Funcionários (CRUD em Java)
 
 Um sistema de gerenciamento de funcionários desenvolvido no console utilizando Java. O projeto foi construído para praticar conceitos fundamentais da **Programação Orientada a Objetos (POO)** e manipulação de coleções de dados.
 
 ---
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 - [x] **Cadastrar Funcionário:** Adiciona nome, idade e cargo de novos colaboradores.
 - [x] **Listar Funcionários:** Exibe todos os cadastros ativos na memória.
@@ -13,7 +13,7 @@ Um sistema de gerenciamento de funcionários desenvolvido no console utilizando 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Linguagem:** Java (JDK 17+)
 - **IDE:** Eclipse IDE
@@ -22,7 +22,7 @@ Um sistema de gerenciamento de funcionários desenvolvido no console utilizando 
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```text
 src/
